@@ -6,6 +6,6 @@ def points_scored(free, basket, three):
     return points
 
 
-print(points_scored(1, 1, 1,) == 6)
-print(points_scored(456, 4, 12,) == 500)
-print(points_scored(56, 46, 13,) == 187)
+print(points_scored(1, 1, 1) == 6)
+print(points_scored(456, 4, 12) == 500)
+print(points_scored(56, 46, 13) == 187)
